@@ -1,4 +1,3 @@
-## 고쳐야 될 것
+## yongdusan weather website
 
-1. snake-case -> camelCase
 
